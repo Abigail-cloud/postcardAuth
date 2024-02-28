@@ -64,13 +64,4 @@ public class WebSecurityConfig {
 
 }
 
-//Application where I can borrow books{Library Application... }
-//validations..generic response(generic payload:
-//payload: success field, a code(status-code), body
-//Logging--should be handled by AOP
-//Use Lombok for accessors
-//Mapstruct:
-//Authentication
-//@RolesAllowed====RBAC
-//Groups
 
