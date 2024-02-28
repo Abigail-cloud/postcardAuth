@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/postcard
     username: postgres
-    password: postoat4
+    password:
   jpa:
     hibernate:
       ddl-auto: update
@@ -16,6 +16,6 @@ spring:
         show_sql: true
 oat:
   app:
-     jwtSecret: ======================OATSpring===========================
-     jwtExpirationMs: 30000
-     jwtCookieName: oatTest
+     jwtSecret:
+     jwtExpirationMs:
+     jwtCookieName:
